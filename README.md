@@ -5,14 +5,14 @@ Example application that leverage LLAMA3.1 for sentiment analysis
 - docker compose pluging [installation](https://docs.docker.com/compose/install/linux/)
 
 # Commands:
-**api-docs**: Creates swagger ui instance with api documentation
-**api**: Start api server
-**help**: Show help for each of the Makefile recipes
-**predict**: Predict and creates results.json
-**process-features**: Preprocess features and creates Data/features.csv file
-**pull-model**: Download weights for model, need to run only once after container starts
-**start**: Start Docker Compose services
-**test**: Run tests in docker container
+- **api-docs**: Creates swagger ui instance with api documentation
+- **api**: Start api server
+- **help**: Show help for each of the Makefile recipes
+- **predict**: Predict and creates results.json
+- **process-features**: Preprocess features and creates Data/features.csv file
+- **pull-model**: Download weights for model, need to run only once after container starts
+- **start**: Start Docker Compose services
+- **test**: Run tests in docker container
 
 # Quick Start
 
