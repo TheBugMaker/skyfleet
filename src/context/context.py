@@ -1,0 +1,1 @@
+USER_SENTIMENT = "Only answer by 1 if the following sentence is positive, only answer by 0 if the sentence is neutral and is asking for information and only answer by -1 if the sentence have negative sentiment and that means the user want to cancel the order or refund it as an example. Provide no explanation."

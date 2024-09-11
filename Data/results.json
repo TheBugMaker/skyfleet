@@ -1,0 +1,1000 @@
+{"ride_id":"RIDE1","recommendation":"DECLINE"}
+{"ride_id":"RIDE2","recommendation":"DECLINE"}
+{"ride_id":"RIDE3","recommendation":"DECLINE"}
+{"ride_id":"RIDE4","recommendation":"DECLINE"}
+{"ride_id":"RIDE5","recommendation":"DECLINE"}
+{"ride_id":"RIDE6","recommendation":"DECLINE"}
+{"ride_id":"RIDE7","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE8","recommendation":"DECLINE"}
+{"ride_id":"RIDE9","recommendation":"DECLINE"}
+{"ride_id":"RIDE10","recommendation":"DECLINE"}
+{"ride_id":"RIDE11","recommendation":"DECLINE"}
+{"ride_id":"RIDE12","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE13","recommendation":"DECLINE"}
+{"ride_id":"RIDE14","recommendation":"DECLINE"}
+{"ride_id":"RIDE15","recommendation":"DECLINE"}
+{"ride_id":"RIDE16","recommendation":"DECLINE"}
+{"ride_id":"RIDE17","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE18","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE19","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE20","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE21","recommendation":"DECLINE"}
+{"ride_id":"RIDE22","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE23","recommendation":"DECLINE"}
+{"ride_id":"RIDE24","recommendation":"DECLINE"}
+{"ride_id":"RIDE25","recommendation":"DECLINE"}
+{"ride_id":"RIDE26","recommendation":"DECLINE"}
+{"ride_id":"RIDE27","recommendation":"DECLINE"}
+{"ride_id":"RIDE28","recommendation":"DECLINE"}
+{"ride_id":"RIDE29","recommendation":"DECLINE"}
+{"ride_id":"RIDE30","recommendation":"DECLINE"}
+{"ride_id":"RIDE31","recommendation":"DECLINE"}
+{"ride_id":"RIDE32","recommendation":"DECLINE"}
+{"ride_id":"RIDE33","recommendation":"DECLINE"}
+{"ride_id":"RIDE34","recommendation":"DECLINE"}
+{"ride_id":"RIDE35","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE36","recommendation":"DECLINE"}
+{"ride_id":"RIDE37","recommendation":"DECLINE"}
+{"ride_id":"RIDE38","recommendation":"DECLINE"}
+{"ride_id":"RIDE39","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE40","recommendation":"DECLINE"}
+{"ride_id":"RIDE41","recommendation":"DECLINE"}
+{"ride_id":"RIDE42","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE43","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE44","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE45","recommendation":"DECLINE"}
+{"ride_id":"RIDE46","recommendation":"DECLINE"}
+{"ride_id":"RIDE47","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE48","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE49","recommendation":"DECLINE"}
+{"ride_id":"RIDE50","recommendation":"DECLINE"}
+{"ride_id":"RIDE51","recommendation":"DECLINE"}
+{"ride_id":"RIDE52","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE53","recommendation":"DECLINE"}
+{"ride_id":"RIDE54","recommendation":"DECLINE"}
+{"ride_id":"RIDE55","recommendation":"DECLINE"}
+{"ride_id":"RIDE56","recommendation":"DECLINE"}
+{"ride_id":"RIDE57","recommendation":"DECLINE"}
+{"ride_id":"RIDE58","recommendation":"DECLINE"}
+{"ride_id":"RIDE59","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE60","recommendation":"DECLINE"}
+{"ride_id":"RIDE61","recommendation":"DECLINE"}
+{"ride_id":"RIDE62","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE63","recommendation":"DECLINE"}
+{"ride_id":"RIDE64","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE65","recommendation":"DECLINE"}
+{"ride_id":"RIDE66","recommendation":"DECLINE"}
+{"ride_id":"RIDE67","recommendation":"DECLINE"}
+{"ride_id":"RIDE68","recommendation":"DECLINE"}
+{"ride_id":"RIDE69","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE70","recommendation":"DECLINE"}
+{"ride_id":"RIDE71","recommendation":"DECLINE"}
+{"ride_id":"RIDE72","recommendation":"DECLINE"}
+{"ride_id":"RIDE73","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE74","recommendation":"DECLINE"}
+{"ride_id":"RIDE75","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE76","recommendation":"DECLINE"}
+{"ride_id":"RIDE77","recommendation":"DECLINE"}
+{"ride_id":"RIDE78","recommendation":"ACCEPT"}
+{"ride_id":"RIDE79","recommendation":"DECLINE"}
+{"ride_id":"RIDE80","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE81","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE82","recommendation":"DECLINE"}
+{"ride_id":"RIDE83","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE84","recommendation":"ACCEPT"}
+{"ride_id":"RIDE85","recommendation":"DECLINE"}
+{"ride_id":"RIDE86","recommendation":"UNDEFINED"}
+{"ride_id":"RIDE87","recommendation":"DECLINE"}
+{"ride_id":"RIDE88","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE89","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE90","recommendation":"DECLINE"}
+{"ride_id":"RIDE91","recommendation":"DECLINE"}
+{"ride_id":"RIDE92","recommendation":"DECLINE"}
+{"ride_id":"RIDE93","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE94","recommendation":"DECLINE"}
+{"ride_id":"RIDE95","recommendation":"DECLINE"}
+{"ride_id":"RIDE96","recommendation":"DECLINE"}
+{"ride_id":"RIDE97","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE98","recommendation":"DECLINE"}
+{"ride_id":"RIDE99","recommendation":"DECLINE"}
+{"ride_id":"RIDE100","recommendation":"DECLINE"}
+{"ride_id":"RIDE101","recommendation":"UNDEFINED"}
+{"ride_id":"RIDE102","recommendation":"DECLINE"}
+{"ride_id":"RIDE103","recommendation":"DECLINE"}
+{"ride_id":"RIDE104","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE105","recommendation":"DECLINE"}
+{"ride_id":"RIDE106","recommendation":"DECLINE"}
+{"ride_id":"RIDE107","recommendation":"DECLINE"}
+{"ride_id":"RIDE108","recommendation":"DECLINE"}
+{"ride_id":"RIDE109","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE110","recommendation":"DECLINE"}
+{"ride_id":"RIDE111","recommendation":"DECLINE"}
+{"ride_id":"RIDE112","recommendation":"DECLINE"}
+{"ride_id":"RIDE113","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE114","recommendation":"DECLINE"}
+{"ride_id":"RIDE115","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE116","recommendation":"DECLINE"}
+{"ride_id":"RIDE117","recommendation":"DECLINE"}
+{"ride_id":"RIDE118","recommendation":"DECLINE"}
+{"ride_id":"RIDE119","recommendation":"DECLINE"}
+{"ride_id":"RIDE120","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE121","recommendation":"DECLINE"}
+{"ride_id":"RIDE122","recommendation":"DECLINE"}
+{"ride_id":"RIDE123","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE124","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE125","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE126","recommendation":"DECLINE"}
+{"ride_id":"RIDE127","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE128","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE129","recommendation":"DECLINE"}
+{"ride_id":"RIDE130","recommendation":"DECLINE"}
+{"ride_id":"RIDE131","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE132","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE133","recommendation":"DECLINE"}
+{"ride_id":"RIDE134","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE135","recommendation":"DECLINE"}
+{"ride_id":"RIDE136","recommendation":"DECLINE"}
+{"ride_id":"RIDE137","recommendation":"DECLINE"}
+{"ride_id":"RIDE138","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE139","recommendation":"DECLINE"}
+{"ride_id":"RIDE140","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE141","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE142","recommendation":"DECLINE"}
+{"ride_id":"RIDE143","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE144","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE145","recommendation":"DECLINE"}
+{"ride_id":"RIDE146","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE147","recommendation":"DECLINE"}
+{"ride_id":"RIDE148","recommendation":"DECLINE"}
+{"ride_id":"RIDE149","recommendation":"DECLINE"}
+{"ride_id":"RIDE150","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE151","recommendation":"DECLINE"}
+{"ride_id":"RIDE152","recommendation":"DECLINE"}
+{"ride_id":"RIDE153","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE154","recommendation":"DECLINE"}
+{"ride_id":"RIDE155","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE156","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE157","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE158","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE159","recommendation":"DECLINE"}
+{"ride_id":"RIDE160","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE161","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE162","recommendation":"ACCEPT"}
+{"ride_id":"RIDE163","recommendation":"DECLINE"}
+{"ride_id":"RIDE164","recommendation":"DECLINE"}
+{"ride_id":"RIDE165","recommendation":"DECLINE"}
+{"ride_id":"RIDE166","recommendation":"DECLINE"}
+{"ride_id":"RIDE167","recommendation":"DECLINE"}
+{"ride_id":"RIDE168","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE169","recommendation":"DECLINE"}
+{"ride_id":"RIDE170","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE171","recommendation":"DECLINE"}
+{"ride_id":"RIDE172","recommendation":"DECLINE"}
+{"ride_id":"RIDE173","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE174","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE175","recommendation":"DECLINE"}
+{"ride_id":"RIDE176","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE177","recommendation":"DECLINE"}
+{"ride_id":"RIDE178","recommendation":"DECLINE"}
+{"ride_id":"RIDE179","recommendation":"DECLINE"}
+{"ride_id":"RIDE180","recommendation":"DECLINE"}
+{"ride_id":"RIDE181","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE182","recommendation":"DECLINE"}
+{"ride_id":"RIDE183","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE184","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE185","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE186","recommendation":"DECLINE"}
+{"ride_id":"RIDE187","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE188","recommendation":"DECLINE"}
+{"ride_id":"RIDE189","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE190","recommendation":"DECLINE"}
+{"ride_id":"RIDE191","recommendation":"ACCEPT"}
+{"ride_id":"RIDE192","recommendation":"DECLINE"}
+{"ride_id":"RIDE193","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE194","recommendation":"DECLINE"}
+{"ride_id":"RIDE195","recommendation":"DECLINE"}
+{"ride_id":"RIDE196","recommendation":"DECLINE"}
+{"ride_id":"RIDE197","recommendation":"DECLINE"}
+{"ride_id":"RIDE198","recommendation":"DECLINE"}
+{"ride_id":"RIDE199","recommendation":"DECLINE"}
+{"ride_id":"RIDE200","recommendation":"DECLINE"}
+{"ride_id":"RIDE201","recommendation":"DECLINE"}
+{"ride_id":"RIDE202","recommendation":"DECLINE"}
+{"ride_id":"RIDE203","recommendation":"DECLINE"}
+{"ride_id":"RIDE204","recommendation":"DECLINE"}
+{"ride_id":"RIDE205","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE206","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE207","recommendation":"DECLINE"}
+{"ride_id":"RIDE208","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE209","recommendation":"DECLINE"}
+{"ride_id":"RIDE210","recommendation":"DECLINE"}
+{"ride_id":"RIDE211","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE212","recommendation":"DECLINE"}
+{"ride_id":"RIDE213","recommendation":"DECLINE"}
+{"ride_id":"RIDE214","recommendation":"DECLINE"}
+{"ride_id":"RIDE215","recommendation":"DECLINE"}
+{"ride_id":"RIDE216","recommendation":"DECLINE"}
+{"ride_id":"RIDE217","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE218","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE219","recommendation":"DECLINE"}
+{"ride_id":"RIDE220","recommendation":"DECLINE"}
+{"ride_id":"RIDE221","recommendation":"DECLINE"}
+{"ride_id":"RIDE222","recommendation":"DECLINE"}
+{"ride_id":"RIDE223","recommendation":"DECLINE"}
+{"ride_id":"RIDE224","recommendation":"DECLINE"}
+{"ride_id":"RIDE225","recommendation":"DECLINE"}
+{"ride_id":"RIDE226","recommendation":"DECLINE"}
+{"ride_id":"RIDE227","recommendation":"DECLINE"}
+{"ride_id":"RIDE228","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE229","recommendation":"DECLINE"}
+{"ride_id":"RIDE230","recommendation":"DECLINE"}
+{"ride_id":"RIDE231","recommendation":"ACCEPT"}
+{"ride_id":"RIDE232","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE233","recommendation":"DECLINE"}
+{"ride_id":"RIDE234","recommendation":"DECLINE"}
+{"ride_id":"RIDE235","recommendation":"DECLINE"}
+{"ride_id":"RIDE236","recommendation":"DECLINE"}
+{"ride_id":"RIDE237","recommendation":"DECLINE"}
+{"ride_id":"RIDE238","recommendation":"DECLINE"}
+{"ride_id":"RIDE239","recommendation":"DECLINE"}
+{"ride_id":"RIDE240","recommendation":"DECLINE"}
+{"ride_id":"RIDE241","recommendation":"DECLINE"}
+{"ride_id":"RIDE242","recommendation":"DECLINE"}
+{"ride_id":"RIDE243","recommendation":"DECLINE"}
+{"ride_id":"RIDE244","recommendation":"ACCEPT"}
+{"ride_id":"RIDE245","recommendation":"DECLINE"}
+{"ride_id":"RIDE246","recommendation":"DECLINE"}
+{"ride_id":"RIDE247","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE248","recommendation":"DECLINE"}
+{"ride_id":"RIDE249","recommendation":"DECLINE"}
+{"ride_id":"RIDE250","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE251","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE252","recommendation":"DECLINE"}
+{"ride_id":"RIDE253","recommendation":"DECLINE"}
+{"ride_id":"RIDE254","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE255","recommendation":"DECLINE"}
+{"ride_id":"RIDE256","recommendation":"DECLINE"}
+{"ride_id":"RIDE257","recommendation":"DECLINE"}
+{"ride_id":"RIDE258","recommendation":"DECLINE"}
+{"ride_id":"RIDE259","recommendation":"DECLINE"}
+{"ride_id":"RIDE260","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE261","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE262","recommendation":"DECLINE"}
+{"ride_id":"RIDE263","recommendation":"DECLINE"}
+{"ride_id":"RIDE264","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE265","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE266","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE267","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE268","recommendation":"DECLINE"}
+{"ride_id":"RIDE269","recommendation":"DECLINE"}
+{"ride_id":"RIDE270","recommendation":"DECLINE"}
+{"ride_id":"RIDE271","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE272","recommendation":"DECLINE"}
+{"ride_id":"RIDE273","recommendation":"DECLINE"}
+{"ride_id":"RIDE274","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE275","recommendation":"DECLINE"}
+{"ride_id":"RIDE276","recommendation":"DECLINE"}
+{"ride_id":"RIDE277","recommendation":"DECLINE"}
+{"ride_id":"RIDE278","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE279","recommendation":"DECLINE"}
+{"ride_id":"RIDE280","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE281","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE282","recommendation":"DECLINE"}
+{"ride_id":"RIDE283","recommendation":"DECLINE"}
+{"ride_id":"RIDE284","recommendation":"DECLINE"}
+{"ride_id":"RIDE285","recommendation":"DECLINE"}
+{"ride_id":"RIDE286","recommendation":"DECLINE"}
+{"ride_id":"RIDE287","recommendation":"DECLINE"}
+{"ride_id":"RIDE288","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE289","recommendation":"DECLINE"}
+{"ride_id":"RIDE290","recommendation":"DECLINE"}
+{"ride_id":"RIDE291","recommendation":"DECLINE"}
+{"ride_id":"RIDE292","recommendation":"DECLINE"}
+{"ride_id":"RIDE293","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE294","recommendation":"DECLINE"}
+{"ride_id":"RIDE295","recommendation":"DECLINE"}
+{"ride_id":"RIDE296","recommendation":"DECLINE"}
+{"ride_id":"RIDE297","recommendation":"DECLINE"}
+{"ride_id":"RIDE298","recommendation":"DECLINE"}
+{"ride_id":"RIDE299","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE300","recommendation":"DECLINE"}
+{"ride_id":"RIDE301","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE302","recommendation":"UNDEFINED"}
+{"ride_id":"RIDE303","recommendation":"DECLINE"}
+{"ride_id":"RIDE304","recommendation":"DECLINE"}
+{"ride_id":"RIDE305","recommendation":"DECLINE"}
+{"ride_id":"RIDE306","recommendation":"DECLINE"}
+{"ride_id":"RIDE307","recommendation":"DECLINE"}
+{"ride_id":"RIDE308","recommendation":"DECLINE"}
+{"ride_id":"RIDE309","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE310","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE311","recommendation":"DECLINE"}
+{"ride_id":"RIDE312","recommendation":"DECLINE"}
+{"ride_id":"RIDE313","recommendation":"DECLINE"}
+{"ride_id":"RIDE314","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE315","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE316","recommendation":"DECLINE"}
+{"ride_id":"RIDE317","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE318","recommendation":"DECLINE"}
+{"ride_id":"RIDE319","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE320","recommendation":"DECLINE"}
+{"ride_id":"RIDE321","recommendation":"DECLINE"}
+{"ride_id":"RIDE322","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE323","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE324","recommendation":"DECLINE"}
+{"ride_id":"RIDE325","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE326","recommendation":"DECLINE"}
+{"ride_id":"RIDE327","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE328","recommendation":"DECLINE"}
+{"ride_id":"RIDE329","recommendation":"DECLINE"}
+{"ride_id":"RIDE330","recommendation":"DECLINE"}
+{"ride_id":"RIDE331","recommendation":"DECLINE"}
+{"ride_id":"RIDE332","recommendation":"DECLINE"}
+{"ride_id":"RIDE333","recommendation":"DECLINE"}
+{"ride_id":"RIDE334","recommendation":"ACCEPT"}
+{"ride_id":"RIDE335","recommendation":"DECLINE"}
+{"ride_id":"RIDE336","recommendation":"DECLINE"}
+{"ride_id":"RIDE337","recommendation":"DECLINE"}
+{"ride_id":"RIDE338","recommendation":"DECLINE"}
+{"ride_id":"RIDE339","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE340","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE341","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE342","recommendation":"DECLINE"}
+{"ride_id":"RIDE343","recommendation":"DECLINE"}
+{"ride_id":"RIDE344","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE345","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE346","recommendation":"DECLINE"}
+{"ride_id":"RIDE347","recommendation":"DECLINE"}
+{"ride_id":"RIDE348","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE349","recommendation":"DECLINE"}
+{"ride_id":"RIDE350","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE351","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE352","recommendation":"DECLINE"}
+{"ride_id":"RIDE353","recommendation":"DECLINE"}
+{"ride_id":"RIDE354","recommendation":"DECLINE"}
+{"ride_id":"RIDE355","recommendation":"DECLINE"}
+{"ride_id":"RIDE356","recommendation":"DECLINE"}
+{"ride_id":"RIDE357","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE358","recommendation":"DECLINE"}
+{"ride_id":"RIDE359","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE360","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE361","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE362","recommendation":"DECLINE"}
+{"ride_id":"RIDE363","recommendation":"DECLINE"}
+{"ride_id":"RIDE364","recommendation":"DECLINE"}
+{"ride_id":"RIDE365","recommendation":"DECLINE"}
+{"ride_id":"RIDE366","recommendation":"DECLINE"}
+{"ride_id":"RIDE367","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE368","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE369","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE370","recommendation":"DECLINE"}
+{"ride_id":"RIDE371","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE372","recommendation":"DECLINE"}
+{"ride_id":"RIDE373","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE374","recommendation":"DECLINE"}
+{"ride_id":"RIDE375","recommendation":"DECLINE"}
+{"ride_id":"RIDE376","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE377","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE378","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE379","recommendation":"DECLINE"}
+{"ride_id":"RIDE380","recommendation":"DECLINE"}
+{"ride_id":"RIDE381","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE382","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE383","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE384","recommendation":"DECLINE"}
+{"ride_id":"RIDE385","recommendation":"DECLINE"}
+{"ride_id":"RIDE386","recommendation":"DECLINE"}
+{"ride_id":"RIDE387","recommendation":"DECLINE"}
+{"ride_id":"RIDE388","recommendation":"DECLINE"}
+{"ride_id":"RIDE389","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE390","recommendation":"DECLINE"}
+{"ride_id":"RIDE391","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE392","recommendation":"DECLINE"}
+{"ride_id":"RIDE393","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE394","recommendation":"DECLINE"}
+{"ride_id":"RIDE395","recommendation":"DECLINE"}
+{"ride_id":"RIDE396","recommendation":"DECLINE"}
+{"ride_id":"RIDE397","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE398","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE399","recommendation":"DECLINE"}
+{"ride_id":"RIDE400","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE401","recommendation":"DECLINE"}
+{"ride_id":"RIDE402","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE403","recommendation":"DECLINE"}
+{"ride_id":"RIDE404","recommendation":"DECLINE"}
+{"ride_id":"RIDE405","recommendation":"DECLINE"}
+{"ride_id":"RIDE406","recommendation":"DECLINE"}
+{"ride_id":"RIDE407","recommendation":"DECLINE"}
+{"ride_id":"RIDE408","recommendation":"DECLINE"}
+{"ride_id":"RIDE409","recommendation":"DECLINE"}
+{"ride_id":"RIDE410","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE411","recommendation":"DECLINE"}
+{"ride_id":"RIDE412","recommendation":"DECLINE"}
+{"ride_id":"RIDE413","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE414","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE415","recommendation":"DECLINE"}
+{"ride_id":"RIDE416","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE417","recommendation":"DECLINE"}
+{"ride_id":"RIDE418","recommendation":"DECLINE"}
+{"ride_id":"RIDE419","recommendation":"DECLINE"}
+{"ride_id":"RIDE420","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE421","recommendation":"DECLINE"}
+{"ride_id":"RIDE422","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE423","recommendation":"DECLINE"}
+{"ride_id":"RIDE424","recommendation":"DECLINE"}
+{"ride_id":"RIDE425","recommendation":"DECLINE"}
+{"ride_id":"RIDE426","recommendation":"DECLINE"}
+{"ride_id":"RIDE427","recommendation":"DECLINE"}
+{"ride_id":"RIDE428","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE429","recommendation":"DECLINE"}
+{"ride_id":"RIDE430","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE431","recommendation":"DECLINE"}
+{"ride_id":"RIDE432","recommendation":"DECLINE"}
+{"ride_id":"RIDE433","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE434","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE435","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE436","recommendation":"DECLINE"}
+{"ride_id":"RIDE437","recommendation":"DECLINE"}
+{"ride_id":"RIDE438","recommendation":"DECLINE"}
+{"ride_id":"RIDE439","recommendation":"DECLINE"}
+{"ride_id":"RIDE440","recommendation":"DECLINE"}
+{"ride_id":"RIDE441","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE442","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE443","recommendation":"DECLINE"}
+{"ride_id":"RIDE444","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE445","recommendation":"DECLINE"}
+{"ride_id":"RIDE446","recommendation":"DECLINE"}
+{"ride_id":"RIDE447","recommendation":"DECLINE"}
+{"ride_id":"RIDE448","recommendation":"DECLINE"}
+{"ride_id":"RIDE449","recommendation":"DECLINE"}
+{"ride_id":"RIDE450","recommendation":"DECLINE"}
+{"ride_id":"RIDE451","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE452","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE453","recommendation":"DECLINE"}
+{"ride_id":"RIDE454","recommendation":"DECLINE"}
+{"ride_id":"RIDE455","recommendation":"DECLINE"}
+{"ride_id":"RIDE456","recommendation":"ACCEPT"}
+{"ride_id":"RIDE457","recommendation":"DECLINE"}
+{"ride_id":"RIDE458","recommendation":"DECLINE"}
+{"ride_id":"RIDE459","recommendation":"DECLINE"}
+{"ride_id":"RIDE460","recommendation":"DECLINE"}
+{"ride_id":"RIDE461","recommendation":"DECLINE"}
+{"ride_id":"RIDE462","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE463","recommendation":"DECLINE"}
+{"ride_id":"RIDE464","recommendation":"DECLINE"}
+{"ride_id":"RIDE465","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE466","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE467","recommendation":"DECLINE"}
+{"ride_id":"RIDE468","recommendation":"DECLINE"}
+{"ride_id":"RIDE469","recommendation":"DECLINE"}
+{"ride_id":"RIDE470","recommendation":"DECLINE"}
+{"ride_id":"RIDE471","recommendation":"DECLINE"}
+{"ride_id":"RIDE472","recommendation":"DECLINE"}
+{"ride_id":"RIDE473","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE474","recommendation":"DECLINE"}
+{"ride_id":"RIDE475","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE476","recommendation":"DECLINE"}
+{"ride_id":"RIDE477","recommendation":"DECLINE"}
+{"ride_id":"RIDE478","recommendation":"DECLINE"}
+{"ride_id":"RIDE479","recommendation":"DECLINE"}
+{"ride_id":"RIDE480","recommendation":"DECLINE"}
+{"ride_id":"RIDE481","recommendation":"DECLINE"}
+{"ride_id":"RIDE482","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE483","recommendation":"DECLINE"}
+{"ride_id":"RIDE484","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE485","recommendation":"DECLINE"}
+{"ride_id":"RIDE486","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE487","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE488","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE489","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE490","recommendation":"DECLINE"}
+{"ride_id":"RIDE491","recommendation":"DECLINE"}
+{"ride_id":"RIDE492","recommendation":"DECLINE"}
+{"ride_id":"RIDE493","recommendation":"DECLINE"}
+{"ride_id":"RIDE494","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE495","recommendation":"DECLINE"}
+{"ride_id":"RIDE496","recommendation":"DECLINE"}
+{"ride_id":"RIDE497","recommendation":"DECLINE"}
+{"ride_id":"RIDE498","recommendation":"DECLINE"}
+{"ride_id":"RIDE499","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE500","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE501","recommendation":"DECLINE"}
+{"ride_id":"RIDE502","recommendation":"DECLINE"}
+{"ride_id":"RIDE503","recommendation":"DECLINE"}
+{"ride_id":"RIDE504","recommendation":"DECLINE"}
+{"ride_id":"RIDE505","recommendation":"DECLINE"}
+{"ride_id":"RIDE506","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE507","recommendation":"DECLINE"}
+{"ride_id":"RIDE508","recommendation":"DECLINE"}
+{"ride_id":"RIDE509","recommendation":"DECLINE"}
+{"ride_id":"RIDE510","recommendation":"DECLINE"}
+{"ride_id":"RIDE511","recommendation":"DECLINE"}
+{"ride_id":"RIDE512","recommendation":"DECLINE"}
+{"ride_id":"RIDE513","recommendation":"DECLINE"}
+{"ride_id":"RIDE514","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE515","recommendation":"DECLINE"}
+{"ride_id":"RIDE516","recommendation":"DECLINE"}
+{"ride_id":"RIDE517","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE518","recommendation":"DECLINE"}
+{"ride_id":"RIDE519","recommendation":"DECLINE"}
+{"ride_id":"RIDE520","recommendation":"DECLINE"}
+{"ride_id":"RIDE521","recommendation":"DECLINE"}
+{"ride_id":"RIDE522","recommendation":"DECLINE"}
+{"ride_id":"RIDE523","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE524","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE525","recommendation":"DECLINE"}
+{"ride_id":"RIDE526","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE527","recommendation":"DECLINE"}
+{"ride_id":"RIDE528","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE529","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE530","recommendation":"DECLINE"}
+{"ride_id":"RIDE531","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE532","recommendation":"DECLINE"}
+{"ride_id":"RIDE533","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE534","recommendation":"DECLINE"}
+{"ride_id":"RIDE535","recommendation":"DECLINE"}
+{"ride_id":"RIDE536","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE537","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE538","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE539","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE540","recommendation":"DECLINE"}
+{"ride_id":"RIDE541","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE542","recommendation":"DECLINE"}
+{"ride_id":"RIDE543","recommendation":"DECLINE"}
+{"ride_id":"RIDE544","recommendation":"DECLINE"}
+{"ride_id":"RIDE545","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE546","recommendation":"DECLINE"}
+{"ride_id":"RIDE547","recommendation":"DECLINE"}
+{"ride_id":"RIDE548","recommendation":"DECLINE"}
+{"ride_id":"RIDE549","recommendation":"DECLINE"}
+{"ride_id":"RIDE550","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE551","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE552","recommendation":"DECLINE"}
+{"ride_id":"RIDE553","recommendation":"DECLINE"}
+{"ride_id":"RIDE554","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE555","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE556","recommendation":"DECLINE"}
+{"ride_id":"RIDE557","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE558","recommendation":"DECLINE"}
+{"ride_id":"RIDE559","recommendation":"DECLINE"}
+{"ride_id":"RIDE560","recommendation":"ACCEPT"}
+{"ride_id":"RIDE561","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE562","recommendation":"DECLINE"}
+{"ride_id":"RIDE563","recommendation":"DECLINE"}
+{"ride_id":"RIDE564","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE565","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE566","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE567","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE568","recommendation":"DECLINE"}
+{"ride_id":"RIDE569","recommendation":"DECLINE"}
+{"ride_id":"RIDE570","recommendation":"DECLINE"}
+{"ride_id":"RIDE571","recommendation":"DECLINE"}
+{"ride_id":"RIDE572","recommendation":"DECLINE"}
+{"ride_id":"RIDE573","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE574","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE575","recommendation":"DECLINE"}
+{"ride_id":"RIDE576","recommendation":"DECLINE"}
+{"ride_id":"RIDE577","recommendation":"DECLINE"}
+{"ride_id":"RIDE578","recommendation":"DECLINE"}
+{"ride_id":"RIDE579","recommendation":"DECLINE"}
+{"ride_id":"RIDE580","recommendation":"DECLINE"}
+{"ride_id":"RIDE581","recommendation":"DECLINE"}
+{"ride_id":"RIDE582","recommendation":"DECLINE"}
+{"ride_id":"RIDE583","recommendation":"DECLINE"}
+{"ride_id":"RIDE584","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE585","recommendation":"DECLINE"}
+{"ride_id":"RIDE586","recommendation":"DECLINE"}
+{"ride_id":"RIDE587","recommendation":"DECLINE"}
+{"ride_id":"RIDE588","recommendation":"DECLINE"}
+{"ride_id":"RIDE589","recommendation":"DECLINE"}
+{"ride_id":"RIDE590","recommendation":"DECLINE"}
+{"ride_id":"RIDE591","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE592","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE593","recommendation":"DECLINE"}
+{"ride_id":"RIDE594","recommendation":"DECLINE"}
+{"ride_id":"RIDE595","recommendation":"DECLINE"}
+{"ride_id":"RIDE596","recommendation":"DECLINE"}
+{"ride_id":"RIDE597","recommendation":"DECLINE"}
+{"ride_id":"RIDE598","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE599","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE600","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE601","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE602","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE603","recommendation":"DECLINE"}
+{"ride_id":"RIDE604","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE605","recommendation":"DECLINE"}
+{"ride_id":"RIDE606","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE607","recommendation":"DECLINE"}
+{"ride_id":"RIDE608","recommendation":"DECLINE"}
+{"ride_id":"RIDE609","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE610","recommendation":"DECLINE"}
+{"ride_id":"RIDE611","recommendation":"DECLINE"}
+{"ride_id":"RIDE612","recommendation":"DECLINE"}
+{"ride_id":"RIDE613","recommendation":"DECLINE"}
+{"ride_id":"RIDE614","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE615","recommendation":"DECLINE"}
+{"ride_id":"RIDE616","recommendation":"DECLINE"}
+{"ride_id":"RIDE617","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE618","recommendation":"DECLINE"}
+{"ride_id":"RIDE619","recommendation":"DECLINE"}
+{"ride_id":"RIDE620","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE621","recommendation":"DECLINE"}
+{"ride_id":"RIDE622","recommendation":"DECLINE"}
+{"ride_id":"RIDE623","recommendation":"DECLINE"}
+{"ride_id":"RIDE624","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE625","recommendation":"DECLINE"}
+{"ride_id":"RIDE626","recommendation":"DECLINE"}
+{"ride_id":"RIDE627","recommendation":"DECLINE"}
+{"ride_id":"RIDE628","recommendation":"DECLINE"}
+{"ride_id":"RIDE629","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE630","recommendation":"DECLINE"}
+{"ride_id":"RIDE631","recommendation":"DECLINE"}
+{"ride_id":"RIDE632","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE633","recommendation":"DECLINE"}
+{"ride_id":"RIDE634","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE635","recommendation":"DECLINE"}
+{"ride_id":"RIDE636","recommendation":"DECLINE"}
+{"ride_id":"RIDE637","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE638","recommendation":"DECLINE"}
+{"ride_id":"RIDE639","recommendation":"DECLINE"}
+{"ride_id":"RIDE640","recommendation":"DECLINE"}
+{"ride_id":"RIDE641","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE642","recommendation":"ACCEPT"}
+{"ride_id":"RIDE643","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE644","recommendation":"DECLINE"}
+{"ride_id":"RIDE645","recommendation":"DECLINE"}
+{"ride_id":"RIDE646","recommendation":"ACCEPT"}
+{"ride_id":"RIDE647","recommendation":"DECLINE"}
+{"ride_id":"RIDE648","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE649","recommendation":"DECLINE"}
+{"ride_id":"RIDE650","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE651","recommendation":"DECLINE"}
+{"ride_id":"RIDE652","recommendation":"DECLINE"}
+{"ride_id":"RIDE653","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE654","recommendation":"DECLINE"}
+{"ride_id":"RIDE655","recommendation":"DECLINE"}
+{"ride_id":"RIDE656","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE657","recommendation":"DECLINE"}
+{"ride_id":"RIDE658","recommendation":"DECLINE"}
+{"ride_id":"RIDE659","recommendation":"UNDEFINED"}
+{"ride_id":"RIDE660","recommendation":"DECLINE"}
+{"ride_id":"RIDE661","recommendation":"DECLINE"}
+{"ride_id":"RIDE662","recommendation":"DECLINE"}
+{"ride_id":"RIDE663","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE664","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE665","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE666","recommendation":"DECLINE"}
+{"ride_id":"RIDE667","recommendation":"DECLINE"}
+{"ride_id":"RIDE668","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE669","recommendation":"DECLINE"}
+{"ride_id":"RIDE670","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE671","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE672","recommendation":"DECLINE"}
+{"ride_id":"RIDE673","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE674","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE675","recommendation":"DECLINE"}
+{"ride_id":"RIDE676","recommendation":"DECLINE"}
+{"ride_id":"RIDE677","recommendation":"DECLINE"}
+{"ride_id":"RIDE678","recommendation":"DECLINE"}
+{"ride_id":"RIDE679","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE680","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE681","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE682","recommendation":"DECLINE"}
+{"ride_id":"RIDE683","recommendation":"DECLINE"}
+{"ride_id":"RIDE684","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE685","recommendation":"DECLINE"}
+{"ride_id":"RIDE686","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE687","recommendation":"DECLINE"}
+{"ride_id":"RIDE688","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE689","recommendation":"DECLINE"}
+{"ride_id":"RIDE690","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE691","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE692","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE693","recommendation":"DECLINE"}
+{"ride_id":"RIDE694","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE695","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE696","recommendation":"DECLINE"}
+{"ride_id":"RIDE697","recommendation":"DECLINE"}
+{"ride_id":"RIDE698","recommendation":"DECLINE"}
+{"ride_id":"RIDE699","recommendation":"DECLINE"}
+{"ride_id":"RIDE700","recommendation":"DECLINE"}
+{"ride_id":"RIDE701","recommendation":"DECLINE"}
+{"ride_id":"RIDE702","recommendation":"DECLINE"}
+{"ride_id":"RIDE703","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE704","recommendation":"DECLINE"}
+{"ride_id":"RIDE705","recommendation":"DECLINE"}
+{"ride_id":"RIDE706","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE707","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE708","recommendation":"DECLINE"}
+{"ride_id":"RIDE709","recommendation":"DECLINE"}
+{"ride_id":"RIDE710","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE711","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE712","recommendation":"DECLINE"}
+{"ride_id":"RIDE713","recommendation":"DECLINE"}
+{"ride_id":"RIDE714","recommendation":"DECLINE"}
+{"ride_id":"RIDE715","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE716","recommendation":"DECLINE"}
+{"ride_id":"RIDE717","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE718","recommendation":"DECLINE"}
+{"ride_id":"RIDE719","recommendation":"DECLINE"}
+{"ride_id":"RIDE720","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE721","recommendation":"DECLINE"}
+{"ride_id":"RIDE722","recommendation":"DECLINE"}
+{"ride_id":"RIDE723","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE724","recommendation":"DECLINE"}
+{"ride_id":"RIDE725","recommendation":"DECLINE"}
+{"ride_id":"RIDE726","recommendation":"DECLINE"}
+{"ride_id":"RIDE727","recommendation":"DECLINE"}
+{"ride_id":"RIDE728","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE729","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE730","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE731","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE732","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE733","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE734","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE735","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE736","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE737","recommendation":"DECLINE"}
+{"ride_id":"RIDE738","recommendation":"DECLINE"}
+{"ride_id":"RIDE739","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE740","recommendation":"DECLINE"}
+{"ride_id":"RIDE741","recommendation":"DECLINE"}
+{"ride_id":"RIDE742","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE743","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE744","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE745","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE746","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE747","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE748","recommendation":"DECLINE"}
+{"ride_id":"RIDE749","recommendation":"DECLINE"}
+{"ride_id":"RIDE750","recommendation":"DECLINE"}
+{"ride_id":"RIDE751","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE752","recommendation":"UNDEFINED"}
+{"ride_id":"RIDE753","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE754","recommendation":"DECLINE"}
+{"ride_id":"RIDE755","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE756","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE757","recommendation":"DECLINE"}
+{"ride_id":"RIDE758","recommendation":"DECLINE"}
+{"ride_id":"RIDE759","recommendation":"DECLINE"}
+{"ride_id":"RIDE760","recommendation":"DECLINE"}
+{"ride_id":"RIDE761","recommendation":"DECLINE"}
+{"ride_id":"RIDE762","recommendation":"DECLINE"}
+{"ride_id":"RIDE763","recommendation":"DECLINE"}
+{"ride_id":"RIDE764","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE765","recommendation":"DECLINE"}
+{"ride_id":"RIDE766","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE767","recommendation":"DECLINE"}
+{"ride_id":"RIDE768","recommendation":"UNDEFINED"}
+{"ride_id":"RIDE769","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE770","recommendation":"DECLINE"}
+{"ride_id":"RIDE771","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE772","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE773","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE774","recommendation":"DECLINE"}
+{"ride_id":"RIDE775","recommendation":"DECLINE"}
+{"ride_id":"RIDE776","recommendation":"DECLINE"}
+{"ride_id":"RIDE777","recommendation":"DECLINE"}
+{"ride_id":"RIDE778","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE779","recommendation":"DECLINE"}
+{"ride_id":"RIDE780","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE781","recommendation":"DECLINE"}
+{"ride_id":"RIDE782","recommendation":"DECLINE"}
+{"ride_id":"RIDE783","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE784","recommendation":"DECLINE"}
+{"ride_id":"RIDE785","recommendation":"DECLINE"}
+{"ride_id":"RIDE786","recommendation":"UNDEFINED"}
+{"ride_id":"RIDE787","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE788","recommendation":"DECLINE"}
+{"ride_id":"RIDE789","recommendation":"DECLINE"}
+{"ride_id":"RIDE790","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE791","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE792","recommendation":"DECLINE"}
+{"ride_id":"RIDE793","recommendation":"DECLINE"}
+{"ride_id":"RIDE794","recommendation":"DECLINE"}
+{"ride_id":"RIDE795","recommendation":"DECLINE"}
+{"ride_id":"RIDE796","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE797","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE798","recommendation":"DECLINE"}
+{"ride_id":"RIDE799","recommendation":"DECLINE"}
+{"ride_id":"RIDE800","recommendation":"DECLINE"}
+{"ride_id":"RIDE801","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE802","recommendation":"DECLINE"}
+{"ride_id":"RIDE803","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE804","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE805","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE806","recommendation":"DECLINE"}
+{"ride_id":"RIDE807","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE808","recommendation":"DECLINE"}
+{"ride_id":"RIDE809","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE810","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE811","recommendation":"DECLINE"}
+{"ride_id":"RIDE812","recommendation":"DECLINE"}
+{"ride_id":"RIDE813","recommendation":"DECLINE"}
+{"ride_id":"RIDE814","recommendation":"DECLINE"}
+{"ride_id":"RIDE815","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE816","recommendation":"DECLINE"}
+{"ride_id":"RIDE817","recommendation":"DECLINE"}
+{"ride_id":"RIDE818","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE819","recommendation":"DECLINE"}
+{"ride_id":"RIDE820","recommendation":"DECLINE"}
+{"ride_id":"RIDE821","recommendation":"DECLINE"}
+{"ride_id":"RIDE822","recommendation":"DECLINE"}
+{"ride_id":"RIDE823","recommendation":"DECLINE"}
+{"ride_id":"RIDE824","recommendation":"DECLINE"}
+{"ride_id":"RIDE825","recommendation":"DECLINE"}
+{"ride_id":"RIDE826","recommendation":"DECLINE"}
+{"ride_id":"RIDE827","recommendation":"DECLINE"}
+{"ride_id":"RIDE828","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE829","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE830","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE831","recommendation":"DECLINE"}
+{"ride_id":"RIDE832","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE833","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE834","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE835","recommendation":"DECLINE"}
+{"ride_id":"RIDE836","recommendation":"DECLINE"}
+{"ride_id":"RIDE837","recommendation":"DECLINE"}
+{"ride_id":"RIDE838","recommendation":"DECLINE"}
+{"ride_id":"RIDE839","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE840","recommendation":"DECLINE"}
+{"ride_id":"RIDE841","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE842","recommendation":"DECLINE"}
+{"ride_id":"RIDE843","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE844","recommendation":"DECLINE"}
+{"ride_id":"RIDE845","recommendation":"DECLINE"}
+{"ride_id":"RIDE846","recommendation":"DECLINE"}
+{"ride_id":"RIDE847","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE848","recommendation":"DECLINE"}
+{"ride_id":"RIDE849","recommendation":"DECLINE"}
+{"ride_id":"RIDE850","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE851","recommendation":"DECLINE"}
+{"ride_id":"RIDE852","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE853","recommendation":"DECLINE"}
+{"ride_id":"RIDE854","recommendation":"DECLINE"}
+{"ride_id":"RIDE855","recommendation":"DECLINE"}
+{"ride_id":"RIDE856","recommendation":"DECLINE"}
+{"ride_id":"RIDE857","recommendation":"DECLINE"}
+{"ride_id":"RIDE858","recommendation":"DECLINE"}
+{"ride_id":"RIDE859","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE860","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE861","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE862","recommendation":"DECLINE"}
+{"ride_id":"RIDE863","recommendation":"DECLINE"}
+{"ride_id":"RIDE864","recommendation":"DECLINE"}
+{"ride_id":"RIDE865","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE866","recommendation":"DECLINE"}
+{"ride_id":"RIDE867","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE868","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE869","recommendation":"DECLINE"}
+{"ride_id":"RIDE870","recommendation":"DECLINE"}
+{"ride_id":"RIDE871","recommendation":"DECLINE"}
+{"ride_id":"RIDE872","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE873","recommendation":"DECLINE"}
+{"ride_id":"RIDE874","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE875","recommendation":"DECLINE"}
+{"ride_id":"RIDE876","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE877","recommendation":"DECLINE"}
+{"ride_id":"RIDE878","recommendation":"DECLINE"}
+{"ride_id":"RIDE879","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE880","recommendation":"DECLINE"}
+{"ride_id":"RIDE881","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE882","recommendation":"DECLINE"}
+{"ride_id":"RIDE883","recommendation":"DECLINE"}
+{"ride_id":"RIDE884","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE885","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE886","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE887","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE888","recommendation":"DECLINE"}
+{"ride_id":"RIDE889","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE890","recommendation":"DECLINE"}
+{"ride_id":"RIDE891","recommendation":"DECLINE"}
+{"ride_id":"RIDE892","recommendation":"DECLINE"}
+{"ride_id":"RIDE893","recommendation":"DECLINE"}
+{"ride_id":"RIDE894","recommendation":"DECLINE"}
+{"ride_id":"RIDE895","recommendation":"DECLINE"}
+{"ride_id":"RIDE896","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE897","recommendation":"DECLINE"}
+{"ride_id":"RIDE898","recommendation":"DECLINE"}
+{"ride_id":"RIDE899","recommendation":"DECLINE"}
+{"ride_id":"RIDE900","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE901","recommendation":"DECLINE"}
+{"ride_id":"RIDE902","recommendation":"DECLINE"}
+{"ride_id":"RIDE903","recommendation":"DECLINE"}
+{"ride_id":"RIDE904","recommendation":"DECLINE"}
+{"ride_id":"RIDE905","recommendation":"DECLINE"}
+{"ride_id":"RIDE906","recommendation":"DECLINE"}
+{"ride_id":"RIDE907","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE908","recommendation":"DECLINE"}
+{"ride_id":"RIDE909","recommendation":"DECLINE"}
+{"ride_id":"RIDE910","recommendation":"ACCEPT"}
+{"ride_id":"RIDE911","recommendation":"DECLINE"}
+{"ride_id":"RIDE912","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE913","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE914","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE915","recommendation":"DECLINE"}
+{"ride_id":"RIDE916","recommendation":"DECLINE"}
+{"ride_id":"RIDE917","recommendation":"DECLINE"}
+{"ride_id":"RIDE918","recommendation":"DECLINE"}
+{"ride_id":"RIDE919","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE920","recommendation":"DECLINE"}
+{"ride_id":"RIDE921","recommendation":"DECLINE"}
+{"ride_id":"RIDE922","recommendation":"DECLINE"}
+{"ride_id":"RIDE923","recommendation":"DECLINE"}
+{"ride_id":"RIDE924","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE925","recommendation":"DECLINE"}
+{"ride_id":"RIDE926","recommendation":"DECLINE"}
+{"ride_id":"RIDE927","recommendation":"DECLINE"}
+{"ride_id":"RIDE928","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE929","recommendation":"DECLINE"}
+{"ride_id":"RIDE930","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE931","recommendation":"DECLINE"}
+{"ride_id":"RIDE932","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE933","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE934","recommendation":"UNDEFINED"}
+{"ride_id":"RIDE935","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE936","recommendation":"DECLINE"}
+{"ride_id":"RIDE937","recommendation":"DECLINE"}
+{"ride_id":"RIDE938","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE939","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE940","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE941","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE942","recommendation":"DECLINE"}
+{"ride_id":"RIDE943","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE944","recommendation":"DECLINE"}
+{"ride_id":"RIDE945","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE946","recommendation":"DECLINE"}
+{"ride_id":"RIDE947","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE948","recommendation":"DECLINE"}
+{"ride_id":"RIDE949","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE950","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE951","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE952","recommendation":"DECLINE"}
+{"ride_id":"RIDE953","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE954","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE955","recommendation":"DECLINE"}
+{"ride_id":"RIDE956","recommendation":"DECLINE"}
+{"ride_id":"RIDE957","recommendation":"DECLINE"}
+{"ride_id":"RIDE958","recommendation":"DECLINE"}
+{"ride_id":"RIDE959","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE960","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE961","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE962","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE963","recommendation":"DECLINE"}
+{"ride_id":"RIDE964","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE965","recommendation":"HOLD, CHECK_WEATHER"}
+{"ride_id":"RIDE966","recommendation":"DECLINE"}
+{"ride_id":"RIDE967","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE968","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE969","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE970","recommendation":"DECLINE"}
+{"ride_id":"RIDE971","recommendation":"DECLINE"}
+{"ride_id":"RIDE972","recommendation":"DECLINE"}
+{"ride_id":"RIDE973","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE974","recommendation":"DECLINE"}
+{"ride_id":"RIDE975","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE976","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE977","recommendation":"DECLINE"}
+{"ride_id":"RIDE978","recommendation":"DECLINE"}
+{"ride_id":"RIDE979","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE980","recommendation":"DECLINE"}
+{"ride_id":"RIDE981","recommendation":"DECLINE"}
+{"ride_id":"RIDE982","recommendation":"DECLINE"}
+{"ride_id":"RIDE983","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE984","recommendation":"DECLINE"}
+{"ride_id":"RIDE985","recommendation":"HOLD, CHECK_PAYEMENT"}
+{"ride_id":"RIDE986","recommendation":"DECLINE"}
+{"ride_id":"RIDE987","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE988","recommendation":"DECLINE"}
+{"ride_id":"RIDE989","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE990","recommendation":"DECLINE"}
+{"ride_id":"RIDE991","recommendation":"HOLD, CHECK_AVAILABILITY"}
+{"ride_id":"RIDE992","recommendation":"DECLINE"}
+{"ride_id":"RIDE993","recommendation":"DECLINE"}
+{"ride_id":"RIDE994","recommendation":"DECLINE"}
+{"ride_id":"RIDE995","recommendation":"DECLINE"}
+{"ride_id":"RIDE996","recommendation":"DECLINE"}
+{"ride_id":"RIDE997","recommendation":"DECLINE"}
+{"ride_id":"RIDE998","recommendation":"DECLINE"}
+{"ride_id":"RIDE999","recommendation":"DECLINE"}
+{"ride_id":"RIDE1000","recommendation":"DECLINE"}

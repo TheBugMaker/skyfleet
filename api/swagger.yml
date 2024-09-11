@@ -1,0 +1,100 @@
+openapi: 3.0.0
+info:
+  title: Recommender API
+  description: An API that returns recommendations based on drone availability, battery level, payment status, weather conditions, and customer sentiment.
+  version: 1.0.0
+  contact:
+    name: API Support
+    email: support@example.com
+servers:
+  - url: http://localhost:5000
+    description: Local server
+
+paths:
+  /decision/v1:
+    post:
+      summary: Get recommendation for a given set of conditions
+      operationId: getRecommendation
+      requestBody:
+        description: Data for evaluating recommendation
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                ride_id:
+                  type: string
+                  example: "RIDE2"
+                  description: The unique ID of the ride
+                drone_id:
+                  type: string
+                  example: "DRONE5"
+                  description: The unique ID of the drone
+                timestamp:
+                  type: string
+                  format: date-time
+                  example: "2024-08-11T16:45:29.123456+00:00"
+                  description: Timestamp of when the ride request or query was made
+                location:
+                  type: string
+                  example: "Midtown"
+                  description: The location of the ride or delivery area
+                weather_conditions:
+                  type: string
+                  enum: ["Clear", "Rain", "Wind", "Storm", "Fog"]
+                  example: "Storm"
+                  description: Current weather conditions at the location
+                customer_query:
+                  type: string
+                  example: "Why is the drone not here yet?"
+                  description: Query or feedback from the customer
+      responses:
+        '200':
+          description: Recommendation returned successfully
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  ride_id:
+                    type: string
+                  recommendation:
+                    type: string
+                    description: The recommendation based on the input data
+                    enum:
+                      - ACCEPT
+                      - HOLD, CHECK_AVAILABILITY
+                      - HOLD, CHECK_WEATHER
+                      - HOLD, CHECK_PAYEMENT
+                      - DECLINE
+                      - UNDEFINED
+                  description: A string representing the recommendation.
+              example:
+                ride_id: "RIDE1"
+                recommendation: ACCEPT
+        '400':
+          description: Bad request due to invalid input
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+                    example: Invalid input data provided
+        '500':
+          description: Server error
+
+components:
+  schemas:
+    Recommendation:
+      type: string
+      enum:
+        - ACCEPT
+        - HOLD, CHECK_AVAILABILITY
+        - HOLD, CHECK_WEATHER
+        - HOLD, CHECK_PAYEMENT
+        - DECLINE
+        - UNDEFINED
+      description: Enum for possible recommendations

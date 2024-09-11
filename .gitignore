@@ -1,0 +1,80 @@
+models/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+venv.bak/
+.env
+.venv
+
+# Poetry
+poetry.lock
+.cache
+
+# Pipenv
+Pipfile
+Pipfile.lock
+
+# Pyre type checker
+.pyre/
+
+# pytest
+.cache
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Local configuration files
+*.env
+.env.*
+
+# Docker files
+docker-compose.override.yml
+

@@ -1,0 +1,50 @@
+services:
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama-server
+    restart: always
+    ports:
+      - "11434:11434"
+    volumes:
+      - ./models:/root/.ollama
+
+  api:
+    build: .
+    container_name: api
+    restart: always
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./Data:/Data
+    command: flask run --host 0.0.0.0
+
+  process-features:
+    build: .
+    profiles: ["process-features"]
+    container_name: process-features
+    volumes:
+      - ./Data:/Data
+    command: python process_features.py
+
+  predict:
+    build: .
+    profiles: ["predict"]
+    container_name: predict
+    volumes:
+      - ./Data:/Data
+    command: python predict.py
+
+  test:
+    build: .
+    profiles: ["test"]
+    container_name: test
+    command: pytest
+
+  api-docs:
+    image: swaggerapi/swagger-ui
+    environment:
+      SWAGGER_JSON: /swagger.yaml
+    volumes:
+      - ./api/swagger.yml:/swagger.yaml
+    ports:
+      - "8080:8080"
